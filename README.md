@@ -11,62 +11,40 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **AI Assistant Project in Python**
+---
 
-- 🌱 I’m currently learning **Dart Programming Language**
+### 🔭 I’m currently working on **AI Assistant Project in Python**
+- 🌱 Learning: **Dart Programming Language**
+- 👯 Open for Collaboration: **Android Development Projects**
+- 📫 Reach Me: **nishantkumarrodezweb@gmail.com**
 
-- 👯 I’m looking to collaborate on **Android Development Project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Nishant-172](https://github.com/Nishant-172)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/nishant-kumar-linkdin-profile/](https://www.linkedin.com/in/nishant-kumar-linkdin-profile/)
-
-- 💬 Ask me about **Python, Frontend, and Backend**
-
-- 📫 How to reach me **nishantkumarrodezweb@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/nishant-kumar-linkdin-profile/](https://www.linkedin.com/in/nishant-kumar-linkdin-profile/)
-
-- ⚡ Fun fact **I'm fluent in two languages: the language of design and the language of code.**
-
-<h3 align="left" style="color: #f0f0f0;">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nishant kumar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant kumar" height="30" width="40" style="background-color: #f0f0f0;"/>
-  </a>
-  <a href="https://instagram.com/nishant_1704" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishant_1704" height="30" width="40" style="background-color: #f0f0f0;"/>
-  </a>
-</p>
+---
 
 <h3 align="left" style="color: #f0f0f0;">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Replace icons with neutral or darker-themed SVGs -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-  </a> 
-  <!-- Continue adding other icons as necessary -->
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+</div>
 
-<h3 align="left" style="color: #f0f0f0;">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/N/A"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="N/A" />
+---
+
+<h3 align="left" style="color: #f0f0f0;">Support Me:</h3>
+<div>
+  <a href="https://www.buymeacoffee.com/N/A">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
-  <a href="https://ko-fi.com/N/a"> 
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="N/a" />
+  <a href="https://ko-fi.com/N/a">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
   </a>
-</p>
-<br><br>
+</div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant-172&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nishant-172" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant-172&show_icons=true&locale=en&theme=tokyonight" alt="nishant-172" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-172&theme=tokyonight" alt="nishant-172" />
-</p>
+<h3 align="left" style="color: #f0f0f0;">GitHub Stats:</h3>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant-172&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant-172&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-172&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
