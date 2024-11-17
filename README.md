@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
 <h3 align="center">A passionate frontend developer from India Working In RodezWeb Technologies</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/2IudUHdI075HL02Pkk](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-172&label=Profile%20views&color=0e75b6&style=flat" alt="nishant-172" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant-172" alt="nishant-172" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Ai Assistant Project in Python**
 
 - 🌱 I’m currently learning **Dart Programming Language**
