@@ -1,3 +1,4 @@
+<img src="IMG-20240706-WA0044.jpg" alt="MasterHead" style="width: 100%; height: auto;">
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
 <h3 align="center">A passionate frontend developer from India Working In RodezWeb Technologies</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-172&label=Profile%20views&color=0e75b6&style=flat" alt="nishant-172" /> </p>
