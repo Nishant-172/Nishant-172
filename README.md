@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
 <h3 align="center">A passionate frontend developer from India Working In RodezWeb Technologies</h3>
-
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/2IudUHdI075HL02Pkk](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-172&label=Profile%20views&color=0e75b6&style=flat" alt="nishant-172" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant-172" alt="nishant-172" /></a> </p>
@@ -38,7 +38,4 @@
 <p style="margin-left: -90px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant-172&show_icons=true&locale=en&layout=compact" alt="nishant-172" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant-172&show_icons=true&locale=en" alt="nishant-172" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-172&" alt="nishant-172" /></p>
